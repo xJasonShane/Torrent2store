@@ -1,7 +1,5 @@
-<div align="center">
 # Torrent2store
 **[简体中文](./README.md)|[English](./README_en.md)|[日本語](./README_jp.md)**
-</div>
 
 # 仓库介绍
 本仓库用于存储自制或源自网络的torrent文件或磁力链接，并根据资源进行分类共享;旨在为个人存储相关资源或为他人提供资源提供便利

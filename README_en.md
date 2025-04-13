@@ -1,7 +1,5 @@
-<div align="center">
 # Torrent2store
 **[简体中文](./README.md)|[English](./README_en.md)|[日本語](./README_jp.md)**
-</div>
 
 # Introduction to the warehouse.
 This warehouse is used to store torrent files or magnet links that we create ourselves or obtain from the Internet, and to share them according to the resources; it aims to facilitate individuals to store relevant resources or provide resources for others.
