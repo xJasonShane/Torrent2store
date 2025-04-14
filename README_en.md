@@ -18,6 +18,8 @@ Resource Type|English Classification|Resource Content
 电影|Movie|Chinese movies and other content.
 影剧|TV| Content from all countries around the world.
 
+Note: If a Japanese TV series has movie resources, it will be classified as a movie. If a Chinese TV series has movie resources, it will also be classified as a movie.
+
 # Naming rules.
 - Folder name: English Classification|Chinese Classification
 - Anime|番剧:
