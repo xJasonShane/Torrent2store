@@ -21,14 +21,14 @@ Resource Type|English Classification|Resource Content
 Note: If a Japanese TV series has movie resources, it will be classified as a movie. If a Chinese TV series has movie resources, it will also be classified as a movie.
 
 # Naming rules.
-- Folder name: English Classification|Chinese Classification
-- Anime|番剧:
+- Folder name: English Classification-Chinese Classification
+- Anime-番剧:
   - Premiere Year Official Name/(Chinese Translation) [tmdbid=******] (里/性)
   - For example: "2001 A Colorless Moon" [tmdbid=96624] (Inside)
-- Movie|电影：
+- Movie-电影：
   - Release Year Official Title/(Chinese Translation) [tmdbid=******] (Country/Region)
   - For example: "Your Name" (2016). [tmdbid=372058] (Japan)
-- TV|影剧:
+- TV-影剧:
   - Release Year Official Title/(Chinese Title) [tmdbid=******] (Country/Region)
   - For example: 2023 "The Three-Body Problem" [tmdbid=204541] (China)
 - Note:
