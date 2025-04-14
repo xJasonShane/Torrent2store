@@ -5,7 +5,7 @@
 This warehouse is used to store torrent files or magnet links that we create ourselves or obtain from the Internet, and to share them according to the resources; it aims to facilitate individuals to store relevant resources or provide resources for others.
 
 # Resource Purpose
-All resources shared in this repository (including but not limited to torrent files and magnet links) are either homemade or from the Internet. If the content of the resources does not comply with the local laws or relevant regulations in your area, this repository will not bear any responsibility. Users should judge for themselves whether the resources are legal and compliant, and promptly delete any illegal content.
+All resources shared in this repository (including but not limited to torrent files and magnet links) are either homemade or from the Internet. If the content of the resources does not comply with the local laws or relevant regulations in your area, this repository will not bear any responsibility. Users should judge for themselves whether the resources are legal and compliant, and promptly delete any illegal content.  
 This repository welcomes all users to maintain or improve the resource content together. If you find any problems or have any suggestions for improvement, please feel free to submit an issue or a pull request.
 
 # Resource Tracker server.
